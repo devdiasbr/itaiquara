@@ -29,6 +29,7 @@ gerar_orcamento_docx.py
 pix_qr.png
 gerar_contrato_docx.py
 Contrato KML ITAIQUARA 2.0.docx
+enviar_email.py
 
 # Logs
 *.log
